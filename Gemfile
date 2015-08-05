@@ -35,6 +35,9 @@ gem 'nokogiri'
 gem 'rails-i18n'
 
 gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'omniauth-twitter'
 
 gem 'figaro'
 
